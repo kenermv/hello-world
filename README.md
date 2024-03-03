@@ -1,3 +1,5 @@
-# hello-world
-Creando repositorio
-Hola, mi nombre es kener y estoy aqui para aprender mucho sobre la creacion de videojuegos, me gusta jugar y es por eso que quiero aprender mucho contenido sobre la programacion a la hora de crear un juego , espero que en unos años pueda cumplir el mío.
+# Hello-world
+Creando repositorio 
+
+Hola, me presento, soy Pier Kener Maldonado Villacorta, estoy interesado en el Desarrollo de Aplicaciones Móviles, actualmente conocimientos básicos solo en Android y estoy aquí para seguir absorbiendo conocimientos,
+siempre me gusta preguntarme, "¿Cómo es que se desarrollan las grandes Apps, de hoy en día?" , me gustaría descubrirlo y espero que en unos años pueda estar en una de ellas.
